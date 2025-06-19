@@ -9,3 +9,5 @@ Criar um dashboard de vendas no Excel.
 Acrescentado mais duas informações:
 - Total de venda de acordo com o filtro
 - ticket médio tambem de acordo com cada filtro
+
+Obs.: o Arquivo se encontra na pastas ProjetoVendas
